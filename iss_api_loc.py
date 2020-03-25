@@ -34,5 +34,3 @@ while(True):
     driver.refresh()
 
 driver.quit()
-
-    
